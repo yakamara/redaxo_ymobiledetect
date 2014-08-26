@@ -1,0 +1,5 @@
+ymobiledetect = YMobileDetect
+
+ymobiledetect_usage = Usage of Mobile-Detect
+
+ymobiledetect_help = Dieses AddOn basiert auf der Klasse auf <a href="https://github.com/serbanghita/Mobile-Detect">https://github.com/serbanghita/Mobile-Detect</a> und wird dort regelmäßig auf den aktuellen Stand gebracht. <br /><br />Hier ist die Verwendung bei aktiviertem AddOn gezeigt.
